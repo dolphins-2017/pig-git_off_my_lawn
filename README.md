@@ -28,3 +28,6 @@ Two players should be able to play up to a score of their choice. It would be ni
 #### Second Iteration
 
 Program an AI to play PIG against. You decide how its play style. Using command line arguments, players should be able to decide if they want to play 2 player or solo. Maybe players can also choose a difficulty setting that determines how tight it's play style is.
+
+
+
